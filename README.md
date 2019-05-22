@@ -1,2 +1,3 @@
 # helloWorld
-That's my first time on github, first app
+
+Now i update this file, they asked me to talk about myself but i choose not
